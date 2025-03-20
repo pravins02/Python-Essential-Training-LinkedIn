@@ -1,3 +1,5 @@
+# This is a fork of the original course in the LinkedIn learning.
+
 # Python Essential Training
 This is the repository for the LinkedIn Learning course `Python Essential Training`. The full course is available from [LinkedIn Learning][lil-course-url].
 
